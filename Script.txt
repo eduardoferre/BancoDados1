@@ -382,7 +382,7 @@ INSERT INTO Professor (cpf, especialidade, cpf_coordenador) VALUES
 ('10111223346', 'Dança Contemporânea', '70777889901');
 
 
-INSERT INTO Apresenta (cod_unico_evento, id_turma) VALUES
+INSERT INTO Apresenta (cod_unico, id_turma) VALUES
 (1, 1),
 (1, 2),
 (2, 3),
